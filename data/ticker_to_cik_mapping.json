@@ -1,0 +1,3384 @@
+{
+    "Records": [
+        {
+            "CIK": "0000004281",
+            "Name": "ALCOA INC",
+            "Ticker": "AA"
+        },
+        {
+            "CIK": "0000004962",
+            "Name": "AMERICAN EXPRESS CO",
+            "Ticker": "AXP"
+        },
+        {
+            "CIK": "0000012927",
+            "Name": "BOEING CO",
+            "Ticker": "BA"
+        },
+        {
+            "CIK": "0000070858",
+            "Name": "BANK OF AMERICA CORP /DE/",
+            "Ticker": "BAC"
+        },
+        {
+            "CIK": "0000018230",
+            "Name": "CATERPILLAR INC",
+            "Ticker": "CAT"
+        },
+        {
+            "CIK": "0000858877",
+            "Name": "CISCO SYSTEMS, INC.",
+            "Ticker": "CSCO"
+        },
+        {
+            "CIK": "0000093410",
+            "Name": "CHEVRON CORP",
+            "Ticker": "CVX"
+        },
+        {
+            "CIK": "0000030554",
+            "Name": "DUPONT E I DE NEMOURS & CO",
+            "Ticker": "DD"
+        },
+        {
+            "CIK": "0001001039",
+            "Name": "WALT DISNEY CO/",
+            "Ticker": "DIS"
+        },
+        {
+            "CIK": "0000040545",
+            "Name": "GENERAL ELECTRIC CO",
+            "Ticker": "GE"
+        },
+        {
+            "CIK": "0000354950",
+            "Name": "HOME DEPOT INC",
+            "Ticker": "HD"
+        },
+        {
+            "CIK": "0000047217",
+            "Name": "HEWLETT PACKARD CO",
+            "Ticker": "HPQ"
+        },
+        {
+            "CIK": "0000051143",
+            "Name": "INTERNATIONAL BUSINESS MACHINES CORP",
+            "Ticker": "IBM"
+        },
+        {
+            "CIK": "0000050863",
+            "Name": "INTEL CORP",
+            "Ticker": "INTC"
+        },
+        {
+            "CIK": "0000200406",
+            "Name": "JOHNSON & JOHNSON",
+            "Ticker": "JNJ"
+        },
+        {
+            "CIK": "0000019617",
+            "Name": "JPMORGAN CHASE & CO",
+            "Ticker": "JPM"
+        },
+        {
+            "CIK": "0000021344",
+            "Name": "COCA COLA CO",
+            "Ticker": "KO"
+        },
+        {
+            "CIK": "0000063908",
+            "Name": "MCDONALDS CORP",
+            "Ticker": "MCD"
+        },
+        {
+            "CIK": "0000066740",
+            "Name": "3M CO",
+            "Ticker": "MMM"
+        },
+        {
+            "CIK": "0000310158",
+            "Name": "Merck & Co. Inc.",
+            "Ticker": "MRK"
+        },
+        {
+            "CIK": "0000789019",
+            "Name": "MICROSOFT CORP",
+            "Ticker": "MSFT"
+        },
+        {
+            "CIK": "0000078003",
+            "Name": "PFIZER INC",
+            "Ticker": "PFE"
+        },
+        {
+            "CIK": "0000080424",
+            "Name": "PROCTER & GAMBLE Co",
+            "Ticker": "PG"
+        },
+        {
+            "CIK": "0000732717",
+            "Name": "AT&T INC.",
+            "Ticker": "T"
+        },
+        {
+            "CIK": "0000086312",
+            "Name": "TRAVELERS COMPANIES, INC.",
+            "Ticker": "TRV"
+        },
+        {
+            "CIK": "0000731766",
+            "Name": "UNITEDHEALTH GROUP INC",
+            "Ticker": "UNH"
+        },
+        {
+            "CIK": "0000101829",
+            "Name": "UNITED TECHNOLOGIES CORP /DE/",
+            "Ticker": "UTX"
+        },
+        {
+            "CIK": "0000732712",
+            "Name": "VERIZON COMMUNICATIONS INC",
+            "Ticker": "VZ"
+        },
+        {
+            "CIK": "0000104169",
+            "Name": "WAL MART STORES INC",
+            "Ticker": "WMT"
+        },
+        {
+            "CIK": "0000034088",
+            "Name": "EXXON MOBIL CORP",
+            "Ticker": "XOM"
+        },
+        {
+            "CIK": "0000766421",
+            "Name": "ALASKA AIR GROUP, INC.",
+            "Ticker": "ALK"
+        },
+        {
+            "CIK": "0001043277",
+            "Name": "C H ROBINSON WORLDWIDE INC",
+            "Ticker": "CHRW"
+        },
+        {
+            "CIK": "0000023675",
+            "Name": "Con-way Inc.",
+            "Ticker": "CNW"
+        },
+        {
+            "CIK": "0000277948",
+            "Name": "CSX CORP",
+            "Ticker": "CSX"
+        },
+        {
+            "CIK": "0000027904",
+            "Name": "DELTA AIR LINES INC /DE/",
+            "Ticker": "DAL"
+        },
+        {
+            "CIK": "0000746515",
+            "Name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+            "Ticker": "EXPD"
+        },
+        {
+            "CIK": "0001048911",
+            "Name": "FEDEX CORP",
+            "Ticker": "FDX"
+        },
+        {
+            "CIK": "0000040211",
+            "Name": "GATX CORP",
+            "Ticker": "GMT"
+        },
+        {
+            "CIK": "0000728535",
+            "Name": "HUNT J B TRANSPORT SERVICES INC",
+            "Ticker": "JBHT"
+        },
+        {
+            "CIK": "0001158463",
+            "Name": "JETBLUE AIRWAYS CORP",
+            "Ticker": "JBLU"
+        },
+        {
+            "CIK": "0000056047",
+            "Name": "KIRBY CORP",
+            "Ticker": "KEX"
+        },
+        {
+            "CIK": "0000054480",
+            "Name": "KANSAS CITY SOUTHERN",
+            "Ticker": "KSU"
+        },
+        {
+            "CIK": "0000853816",
+            "Name": "LANDSTAR SYSTEM INC",
+            "Ticker": "LSTR"
+        },
+        {
+            "CIK": "0000092380",
+            "Name": "SOUTHWEST AIRLINES CO",
+            "Ticker": "LUV"
+        },
+        {
+            "CIK": "0000003453",
+            "Name": "Matson, Inc.",
+            "Ticker": "MATX"
+        },
+        {
+            "CIK": "0000702165",
+            "Name": "NORFOLK SOUTHERN CORP",
+            "Ticker": "NSC"
+        },
+        {
+            "CIK": "0000085961",
+            "Name": "RYDER SYSTEM INC",
+            "Ticker": "R"
+        },
+        {
+            "CIK": "0000100517",
+            "Name": "United Continental Holdings, Inc.",
+            "Ticker": "UAL"
+        },
+        {
+            "CIK": "0000100885",
+            "Name": "UNION PACIFIC CORP",
+            "Ticker": "UNP"
+        },
+        {
+            "CIK": "0001090727",
+            "Name": "UNITED PARCEL SERVICE INC",
+            "Ticker": "UPS"
+        },
+        {
+            "CIK": "0000004904",
+            "Name": "AMERICAN ELECTRIC POWER CO INC",
+            "Ticker": "AEP"
+        },
+        {
+            "CIK": "0000874761",
+            "Name": "AES CORP",
+            "Ticker": "AES"
+        },
+        {
+            "CIK": "0001130310",
+            "Name": "CENTERPOINT ENERGY INC",
+            "Ticker": "CNP"
+        },
+        {
+            "CIK": "0000715957",
+            "Name": "DOMINION RESOURCES INC /VA/",
+            "Ticker": "D"
+        },
+        {
+            "CIK": "0001326160",
+            "Name": "Duke Energy CORP",
+            "Ticker": "DUK"
+        },
+        {
+            "CIK": "0001047862",
+            "Name": "CONSOLIDATED EDISON INC",
+            "Ticker": "ED"
+        },
+        {
+            "CIK": "0000827052",
+            "Name": "EDISON INTERNATIONAL",
+            "Ticker": "EIX"
+        },
+        {
+            "CIK": "0001109357",
+            "Name": "EXELON CORP",
+            "Ticker": "EXC"
+        },
+        {
+            "CIK": "0001031296",
+            "Name": "FIRSTENERGY CORP",
+            "Ticker": "FE"
+        },
+        {
+            "CIK": "0000753308",
+            "Name": "NEXTERA ENERGY INC",
+            "Ticker": "NEE"
+        },
+        {
+            "CIK": "0001111711",
+            "Name": "NISOURCE INC/DE",
+            "Ticker": "NI"
+        },
+        {
+            "CIK": "0001004980",
+            "Name": "PG&E Corp",
+            "Ticker": "PCG"
+        },
+        {
+            "CIK": "0000788784",
+            "Name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+            "Ticker": "PEG"
+        },
+        {
+            "CIK": "0000092122",
+            "Name": "SOUTHERN CO",
+            "Ticker": "SO"
+        },
+        {
+            "CIK": "0000107263",
+            "Name": "WILLIAMS COMPANIES INC",
+            "Ticker": "WMB"
+        },
+        {
+            "CIK": "0000812121",
+            "Name": "CRITICARE SYSTEMS INC /DE/",
+            "Ticker": "CMD"
+        },
+        {
+            "CIK": "0000874212",
+            "Name": "CURATIVE HEALTH SERVICES CO",
+            "Ticker": "CURE"
+        },
+        {
+            "CIK": "0001041130",
+            "Name": "SPDR DOW JONES INDUSTRIAL AVERAGE ETF TRUST",
+            "Ticker": "DIA"
+        },
+        {
+            "CIK": "0000811933",
+            "Name": "MAGIC LANTERN GROUP INC",
+            "Ticker": "GML"
+        },
+        {
+            "CIK": "0001046192",
+            "Name": "GREAT WEST LIFE ASSURANCE CO /CAN/",
+            "Ticker": "GWL"
+        },
+        {
+            "CIK": "0001103389",
+            "Name": "IMPERIAL PARKING CORP",
+            "Ticker": "IPK"
+        },
+        {
+            "CIK": "0000879933",
+            "Name": "IPSCO INC",
+            "Ticker": "IPS"
+        },
+        {
+            "CIK": "0000725549",
+            "Name": "MANDALAY RESORT GROUP",
+            "Ticker": "MBG"
+        },
+        {
+            "CIK": "0001037652",
+            "Name": "PELICAN FINANCIAL INC",
+            "Ticker": "PFI"
+        },
+        {
+            "CIK": "0000078706",
+            "Name": "PIONEER CORP",
+            "Ticker": "PIO"
+        },
+        {
+            "CIK": "0001123324",
+            "Name": "PETROFUND ENERGY TRUST",
+            "Ticker": "PTF"
+        },
+        {
+            "CIK": "0000814139",
+            "Name": "PROVENA FOODS INC",
+            "Ticker": "PZA"
+        },
+        {
+            "CIK": "0000874992",
+            "Name": "REMINGTON OIL & GAS CORP",
+            "Ticker": "REM"
+        },
+        {
+            "CIK": "0001013467",
+            "Name": "REMEDYTEMP INC",
+            "Ticker": "REMX"
+        },
+        {
+            "CIK": "0000789388",
+            "Name": "SUNGARD DATA SYSTEMS INC",
+            "Ticker": "SDS"
+        },
+        {
+            "CIK": "0001133882",
+            "Name": "STELMAR SHIPPING LTD",
+            "Ticker": "SJH"
+        },
+        {
+            "CIK": "0001023025",
+            "Name": "TV AZTECA SA DE CV",
+            "Ticker": "TZA"
+        },
+        {
+            "CIK": "0001057234",
+            "Name": "UNIVERSAL COMPRESSION HOLDINGS INC",
+            "Ticker": "UCO"
+        },
+        {
+            "CIK": "0000320193",
+            "Name": "APPLE INC",
+            "Ticker": "AAPL"
+        },
+        {
+            "CIK": "0000796343",
+            "Name": "ADOBE SYSTEMS INC",
+            "Ticker": "ADBE"
+        },
+        {
+            "CIK": "0000006281",
+            "Name": "ANALOG DEVICES INC",
+            "Ticker": "ADI"
+        },
+        {
+            "CIK": "0000008670",
+            "Name": "AUTOMATIC DATA PROCESSING INC",
+            "Ticker": "ADP"
+        },
+        {
+            "CIK": "0000769397",
+            "Name": "AUTODESK INC",
+            "Ticker": "ADSK"
+        },
+        {
+            "CIK": "0001086222",
+            "Name": "AKAMAI TECHNOLOGIES INC",
+            "Ticker": "AKAM"
+        },
+        {
+            "CIK": "0000768251",
+            "Name": "ALTERA CORP",
+            "Ticker": "ALTR"
+        },
+        {
+            "CIK": "0000899866",
+            "Name": "ALEXION PHARMACEUTICALS INC",
+            "Ticker": "ALXN"
+        },
+        {
+            "CIK": "0000006951",
+            "Name": "APPLIED MATERIALS INC /DE",
+            "Ticker": "AMAT"
+        },
+        {
+            "CIK": "0000318154",
+            "Name": "AMGEN INC",
+            "Ticker": "AMGN"
+        },
+        {
+            "CIK": "0001018724",
+            "Name": "AMAZON COM INC",
+            "Ticker": "AMZN"
+        },
+        {
+            "CIK": "0000718877",
+            "Name": "Activision Blizzard, Inc.",
+            "Ticker": "ATVI"
+        },
+        {
+            "CIK": "0001441634",
+            "Name": "Avago Technologies LTD",
+            "Ticker": "AVGO"
+        },
+        {
+            "CIK": "0000886158",
+            "Name": "BED BATH & BEYOND INC",
+            "Ticker": "BBBY"
+        },
+        {
+            "CIK": "0001329099",
+            "Name": "Baidu, Inc.",
+            "Ticker": "BIDU"
+        },
+        {
+            "CIK": "0000875045",
+            "Name": "BIOGEN IDEC INC.",
+            "Ticker": "BIIB"
+        },
+        {
+            "CIK": "0000835729",
+            "Name": "BMC SOFTWARE INC",
+            "Ticker": "BMC"
+        },
+        {
+            "CIK": "0001054374",
+            "Name": "BROADCOM CORP",
+            "Ticker": "BRCM"
+        },
+        {
+            "CIK": "0000356028",
+            "Name": "CA, INC.",
+            "Ticker": "CA"
+        },
+        {
+            "CIK": "0000816284",
+            "Name": "CELGENE CORP /DE/",
+            "Ticker": "CELG"
+        },
+        {
+            "CIK": "0000804753",
+            "Name": "CERNER CORP /MO/",
+            "Ticker": "CERN"
+        },
+        {
+            "CIK": "0001015922",
+            "Name": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+            "Ticker": "CHKP"
+        },
+        {
+            "CIK": "0001043277",
+            "Name": "C H ROBINSON WORLDWIDE INC",
+            "Ticker": "CHRW"
+        },
+        {
+            "CIK": "0001166691",
+            "Name": "COMCAST CORP",
+            "Ticker": "CMCSA"
+        },
+        {
+            "CIK": "0000909832",
+            "Name": "COSTCO WHOLESALE CORP /NEW",
+            "Ticker": "COST"
+        },
+        {
+            "CIK": "0000858877",
+            "Name": "CISCO SYSTEMS, INC.",
+            "Ticker": "CSCO"
+        },
+        {
+            "CIK": "0001138812",
+            "Name": "COTHERIX INC",
+            "Ticker": "CTRX"
+        },
+        {
+            "CIK": "0001058290",
+            "Name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+            "Ticker": "CTSH"
+        },
+        {
+            "CIK": "0000877890",
+            "Name": "CITRIX SYSTEMS INC",
+            "Ticker": "CTXS"
+        },
+        {
+            "CIK": "0000826083",
+            "Name": "DELL INC",
+            "Ticker": "DELL"
+        },
+        {
+            "CIK": "0001437107",
+            "Name": "Discovery Communications, Inc.",
+            "Ticker": "DISCA"
+        },
+        {
+            "CIK": "0000935703",
+            "Name": "DOLLAR TREE INC",
+            "Ticker": "DLTR"
+        },
+        {
+            "CIK": "0001465112",
+            "Name": "DIRECTV",
+            "Ticker": "DTV"
+        },
+        {
+            "CIK": "0001065088",
+            "Name": "EBAY INC",
+            "Ticker": "EBAY"
+        },
+        {
+            "CIK": "0001101239",
+            "Name": "EQUINIX INC",
+            "Ticker": "EQIX"
+        },
+        {
+            "CIK": "0001532063",
+            "Name": "Express Scripts Holding Co.",
+            "Ticker": "ESRX"
+        },
+        {
+            "CIK": "0000746515",
+            "Name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+            "Ticker": "EXPD"
+        },
+        {
+            "CIK": "0001324424",
+            "Name": "Expedia, Inc.",
+            "Ticker": "EXPE"
+        },
+        {
+            "CIK": "0000815556",
+            "Name": "FASTENAL CO",
+            "Ticker": "FAST"
+        },
+        {
+            "CIK": "0001326801",
+            "Name": "Facebook Inc",
+            "Ticker": "FB"
+        },
+        {
+            "CIK": "0001048695",
+            "Name": "F5 NETWORKS INC",
+            "Ticker": "FFIV"
+        },
+        {
+            "CIK": "0000798354",
+            "Name": "FISERV INC",
+            "Ticker": "FISV"
+        },
+        {
+            "CIK": "0000883569",
+            "Name": "Fossil Group, Inc.",
+            "Ticker": "FOSL"
+        },
+        {
+            "CIK": "0000882095",
+            "Name": "GILEAD SCIENCES INC",
+            "Ticker": "GILD"
+        },
+        {
+            "CIK": "0001175580",
+            "Name": "RANDGOLD RESOURCES LTD",
+            "Ticker": "GOLD"
+        },
+        {
+            "CIK": "0001288776",
+            "Name": "Google Inc.",
+            "Ticker": "GOOG"
+        },
+        {
+            "CIK": "0001121788",
+            "Name": "GARMIN LTD",
+            "Ticker": "GRMN"
+        },
+        {
+            "CIK": "0001000228",
+            "Name": "HENRY SCHEIN INC",
+            "Ticker": "HSIC"
+        },
+        {
+            "CIK": "0000050863",
+            "Name": "INTEL CORP",
+            "Ticker": "INTC"
+        },
+        {
+            "CIK": "0000896878",
+            "Name": "INTUIT INC",
+            "Ticker": "INTU"
+        },
+        {
+            "CIK": "0001035267",
+            "Name": "INTUITIVE SURGICAL INC",
+            "Ticker": "ISRG"
+        },
+        {
+            "CIK": "0000319201",
+            "Name": "KLA TENCOR CORP",
+            "Ticker": "KLAC"
+        },
+        {
+            "CIK": "0001545158",
+            "Name": "Kraft Foods Group, Inc.",
+            "Ticker": "KRFT"
+        },
+        {
+            "CIK": "0001570585",
+            "Name": "Liberty Global plc",
+            "Ticker": "LBTYA"
+        },
+        {
+            "CIK": "0001073431",
+            "Name": "Life Technologies Corp",
+            "Ticker": "LIFE"
+        },
+        {
+            "CIK": "0001355096",
+            "Name": "Liberty Interactive Corp",
+            "Ticker": "LINTA"
+        },
+        {
+            "CIK": "0000791907",
+            "Name": "LINEAR TECHNOLOGY CORP /CA/",
+            "Ticker": "LLTC"
+        },
+        {
+            "CIK": "0000063276",
+            "Name": "MATTEL INC /DE/",
+            "Ticker": "MAT"
+        },
+        {
+            "CIK": "0000827054",
+            "Name": "MICROCHIP TECHNOLOGY INC",
+            "Ticker": "MCHP"
+        },
+        {
+            "CIK": "0001103982",
+            "Name": "Mondelez International, Inc.",
+            "Ticker": "MDLZ"
+        },
+        {
+            "CIK": "0000865752",
+            "Name": "Monster Beverage Corp",
+            "Ticker": "MNST"
+        },
+        {
+            "CIK": "0000789019",
+            "Name": "MICROSOFT CORP",
+            "Ticker": "MSFT"
+        },
+        {
+            "CIK": "0000723125",
+            "Name": "MICRON TECHNOLOGY INC",
+            "Ticker": "MU"
+        },
+        {
+            "CIK": "0000743316",
+            "Name": "MAXIM INTEGRATED PRODUCTS INC",
+            "Ticker": "MXIM"
+        },
+        {
+            "CIK": "0000069499",
+            "Name": "MYLAN INC.",
+            "Ticker": "MYL"
+        },
+        {
+            "CIK": "0001002047",
+            "Name": "NetApp, Inc.",
+            "Ticker": "NTAP"
+        },
+        {
+            "CIK": "0001102556",
+            "Name": "NUANCE COMMUNICATIONS",
+            "Ticker": "NUAN"
+        },
+        {
+            "CIK": "0001045810",
+            "Name": "NVIDIA CORP",
+            "Ticker": "NVDA"
+        },
+        {
+            "CIK": "0001564708",
+            "Name": "NEWS CORP",
+            "Ticker": "NWSA"
+        },
+        {
+            "CIK": "0001341439",
+            "Name": "ORACLE CORP",
+            "Ticker": "ORCL"
+        },
+        {
+            "CIK": "0000898173",
+            "Name": "O REILLY AUTOMOTIVE INC",
+            "Ticker": "ORLY"
+        },
+        {
+            "CIK": "0000723531",
+            "Name": "PAYCHEX INC",
+            "Ticker": "PAYX"
+        },
+        {
+            "CIK": "0000075362",
+            "Name": "PACCAR INC",
+            "Ticker": "PCAR"
+        },
+        {
+            "CIK": "0001075531",
+            "Name": "Priceline Group Inc.",
+            "Ticker": "PCLN"
+        },
+        {
+            "CIK": "0001585364",
+            "Name": "PERRIGO Co plc",
+            "Ticker": "PRGO"
+        },
+        {
+            "CIK": "0000804328",
+            "Name": "QUALCOMM INC/DE",
+            "Ticker": "QCOM"
+        },
+        {
+            "CIK": "0000872589",
+            "Name": "REGENERON PHARMACEUTICALS INC",
+            "Ticker": "REGN"
+        },
+        {
+            "CIK": "0000745732",
+            "Name": "ROSS STORES INC",
+            "Ticker": "ROST"
+        },
+        {
+            "CIK": "0001034054",
+            "Name": "SBA COMMUNICATIONS CORP",
+            "Ticker": "SBAC"
+        },
+        {
+            "CIK": "0000829224",
+            "Name": "STARBUCKS CORP",
+            "Ticker": "SBUX"
+        },
+        {
+            "CIK": "0001310067",
+            "Name": "SEARS HOLDINGS CORP",
+            "Ticker": "SHLD"
+        },
+        {
+            "CIK": "0000090185",
+            "Name": "SIGMA ALDRICH CORP",
+            "Ticker": "SIAL"
+        },
+        {
+            "CIK": "0000908937",
+            "Name": "SIRIUS XM HOLDINGS INC.",
+            "Ticker": "SIRI"
+        },
+        {
+            "CIK": "0001000180",
+            "Name": "SANDISK CORP",
+            "Ticker": "SNDK"
+        },
+        {
+            "CIK": "0000791519",
+            "Name": "STAPLES INC",
+            "Ticker": "SPLS"
+        },
+        {
+            "CIK": "0000861878",
+            "Name": "STERICYCLE INC",
+            "Ticker": "SRCL"
+        },
+        {
+            "CIK": "0001137789",
+            "Name": "Seagate Technology plc",
+            "Ticker": "STX"
+        },
+        {
+            "CIK": "0000849399",
+            "Name": "SYMANTEC CORP",
+            "Ticker": "SYMC"
+        },
+        {
+            "CIK": "0000097476",
+            "Name": "TEXAS INSTRUMENTS INC",
+            "Ticker": "TXN"
+        },
+        {
+            "CIK": "0001339947",
+            "Name": "Viacom Inc.",
+            "Ticker": "VIAB"
+        },
+        {
+            "CIK": "0001270400",
+            "Name": "VIRGIN MEDIA INC.",
+            "Ticker": "VMED"
+        },
+        {
+            "CIK": "0000839923",
+            "Name": "VODAFONE GROUP PUBLIC LTD CO",
+            "Ticker": "VOD"
+        },
+        {
+            "CIK": "0001442145",
+            "Name": "Verisk Analytics, Inc.",
+            "Ticker": "VRSK"
+        },
+        {
+            "CIK": "0000875320",
+            "Name": "VERTEX PHARMACEUTICALS INC / MA",
+            "Ticker": "VRTX"
+        },
+        {
+            "CIK": "0000106040",
+            "Name": "WESTERN DIGITAL CORP",
+            "Ticker": "WDC"
+        },
+        {
+            "CIK": "0000865436",
+            "Name": "WHOLE FOODS MARKET INC",
+            "Ticker": "WFM"
+        },
+        {
+            "CIK": "0001174922",
+            "Name": "WYNN RESORTS LTD",
+            "Ticker": "WYNN"
+        },
+        {
+            "CIK": "0000743988",
+            "Name": "XILINX INC",
+            "Ticker": "XLNX"
+        },
+        {
+            "CIK": "0000818479",
+            "Name": "DENTSPLY INTERNATIONAL INC /DE/",
+            "Ticker": "XRAY"
+        },
+        {
+            "CIK": "0001011006",
+            "Name": "YAHOO INC",
+            "Ticker": "YHOO"
+        },
+        {
+            "CIK": "0001090872",
+            "Name": "AGILENT TECHNOLOGIES INC",
+            "Ticker": "A"
+        },
+        {
+            "CIK": "0000004281",
+            "Name": "ALCOA INC",
+            "Ticker": "AA"
+        },
+        {
+            "CIK": "0000320193",
+            "Name": "APPLE INC",
+            "Ticker": "AAPL"
+        },
+        {
+            "CIK": "0001551152",
+            "Name": "AbbVie Inc.",
+            "Ticker": "ABBV"
+        },
+        {
+            "CIK": "0001140859",
+            "Name": "AMERISOURCEBERGEN CORP",
+            "Ticker": "ABC"
+        },
+        {
+            "CIK": "0000001800",
+            "Name": "ABBOTT LABORATORIES",
+            "Ticker": "ABT"
+        },
+        {
+            "CIK": "0000896159",
+            "Name": "ACE Ltd",
+            "Ticker": "ACE"
+        },
+        {
+            "CIK": "0001467373",
+            "Name": "Accenture plc",
+            "Ticker": "ACN"
+        },
+        {
+            "CIK": "0000884629",
+            "Name": "Actavis, Inc.",
+            "Ticker": "ACT"
+        },
+        {
+            "CIK": "0000796343",
+            "Name": "ADOBE SYSTEMS INC",
+            "Ticker": "ADBE"
+        },
+        {
+            "CIK": "0000006281",
+            "Name": "ANALOG DEVICES INC",
+            "Ticker": "ADI"
+        },
+        {
+            "CIK": "0000007084",
+            "Name": "ARCHER DANIELS MIDLAND CO",
+            "Ticker": "ADM"
+        },
+        {
+            "CIK": "0000008670",
+            "Name": "AUTOMATIC DATA PROCESSING INC",
+            "Ticker": "ADP"
+        },
+        {
+            "CIK": "0000769397",
+            "Name": "AUTODESK INC",
+            "Ticker": "ADSK"
+        },
+        {
+            "CIK": "0001546640",
+            "Name": "ADT Corp",
+            "Ticker": "ADT"
+        },
+        {
+            "CIK": "0001002910",
+            "Name": "AMEREN CORP",
+            "Ticker": "AEE"
+        },
+        {
+            "CIK": "0000004904",
+            "Name": "AMERICAN ELECTRIC POWER CO INC",
+            "Ticker": "AEP"
+        },
+        {
+            "CIK": "0000874761",
+            "Name": "AES CORP",
+            "Ticker": "AES"
+        },
+        {
+            "CIK": "0001122304",
+            "Name": "AETNA INC /PA/",
+            "Ticker": "AET"
+        },
+        {
+            "CIK": "0000004977",
+            "Name": "AFLAC INC",
+            "Ticker": "AFL"
+        },
+        {
+            "CIK": "0000850693",
+            "Name": "ALLERGAN INC",
+            "Ticker": "AGN"
+        },
+        {
+            "CIK": "0000005272",
+            "Name": "AMERICAN INTERNATIONAL GROUP INC",
+            "Ticker": "AIG"
+        },
+        {
+            "CIK": "0000922864",
+            "Name": "APARTMENT INVESTMENT & MANAGEMENT CO",
+            "Ticker": "AIV"
+        },
+        {
+            "CIK": "0001267238",
+            "Name": "ASSURANT INC",
+            "Ticker": "AIZ"
+        },
+        {
+            "CIK": "0001086222",
+            "Name": "AKAMAI TECHNOLOGIES INC",
+            "Ticker": "AKAM"
+        },
+        {
+            "CIK": "0000899051",
+            "Name": "ALLSTATE CORP",
+            "Ticker": "ALL"
+        },
+        {
+            "CIK": "0000768251",
+            "Name": "ALTERA CORP",
+            "Ticker": "ALTR"
+        },
+        {
+            "CIK": "0000899866",
+            "Name": "ALEXION PHARMACEUTICALS INC",
+            "Ticker": "ALXN"
+        },
+        {
+            "CIK": "0000006951",
+            "Name": "APPLIED MATERIALS INC /DE",
+            "Ticker": "AMAT"
+        },
+        {
+            "CIK": "0000002488",
+            "Name": "ADVANCED MICRO DEVICES INC",
+            "Ticker": "AMD"
+        },
+        {
+            "CIK": "0000318154",
+            "Name": "AMGEN INC",
+            "Ticker": "AMGN"
+        },
+        {
+            "CIK": "0000820027",
+            "Name": "AMERIPRISE FINANCIAL INC",
+            "Ticker": "AMP"
+        },
+        {
+            "CIK": "0001053507",
+            "Name": "AMERICAN TOWER CORP /MA/",
+            "Ticker": "AMT"
+        },
+        {
+            "CIK": "0001018724",
+            "Name": "AMAZON COM INC",
+            "Ticker": "AMZN"
+        },
+        {
+            "CIK": "0000350698",
+            "Name": "AUTONATION, INC.",
+            "Ticker": "AN"
+        },
+        {
+            "CIK": "0001018840",
+            "Name": "ABERCROMBIE & FITCH CO /DE/",
+            "Ticker": "ANF"
+        },
+        {
+            "CIK": "0000315293",
+            "Name": "Aon plc",
+            "Ticker": "AON"
+        },
+        {
+            "CIK": "0000006769",
+            "Name": "APACHE CORP",
+            "Ticker": "APA"
+        },
+        {
+            "CIK": "0000773910",
+            "Name": "ANADARKO PETROLEUM CORP",
+            "Ticker": "APC"
+        },
+        {
+            "CIK": "0000002969",
+            "Name": "AIR PRODUCTS & CHEMICALS INC /DE/",
+            "Ticker": "APD"
+        },
+        {
+            "CIK": "0000820313",
+            "Name": "AMPHENOL CORP /DE/",
+            "Ticker": "APH"
+        },
+        {
+            "CIK": "0000929887",
+            "Name": "APOLLO EDUCATION GROUP INC",
+            "Ticker": "APOL"
+        },
+        {
+            "CIK": "0000804212",
+            "Name": "AIRGAS INC",
+            "Ticker": "ARG"
+        },
+        {
+            "CIK": "0001018963",
+            "Name": "ALLEGHENY TECHNOLOGIES INC",
+            "Ticker": "ATI"
+        },
+        {
+            "CIK": "0000915912",
+            "Name": "AVALONBAY COMMUNITIES INC",
+            "Ticker": "AVB"
+        },
+        {
+            "CIK": "0000008868",
+            "Name": "AVON PRODUCTS INC",
+            "Ticker": "AVP"
+        },
+        {
+            "CIK": "0000008818",
+            "Name": "Avery Dennison Corp",
+            "Ticker": "AVY"
+        },
+        {
+            "CIK": "0000004962",
+            "Name": "AMERICAN EXPRESS CO",
+            "Ticker": "AXP"
+        },
+        {
+            "CIK": "0000866787",
+            "Name": "AUTOZONE INC",
+            "Ticker": "AZO"
+        },
+        {
+            "CIK": "0000012927",
+            "Name": "BOEING CO",
+            "Ticker": "BA"
+        },
+        {
+            "CIK": "0000070858",
+            "Name": "BANK OF AMERICA CORP /DE/",
+            "Ticker": "BAC"
+        },
+        {
+            "CIK": "0000010456",
+            "Name": "BAXTER INTERNATIONAL INC",
+            "Ticker": "BAX"
+        },
+        {
+            "CIK": "0000886158",
+            "Name": "BED BATH & BEYOND INC",
+            "Ticker": "BBBY"
+        },
+        {
+            "CIK": "0000092230",
+            "Name": "BB&T CORP",
+            "Ticker": "BBT"
+        },
+        {
+            "CIK": "0000764478",
+            "Name": "BEST BUY CO INC",
+            "Ticker": "BBY"
+        },
+        {
+            "CIK": "0000009892",
+            "Name": "BARD C R INC /NJ/",
+            "Ticker": "BCR"
+        },
+        {
+            "CIK": "0000010795",
+            "Name": "BECTON DICKINSON & CO",
+            "Ticker": "BDX"
+        },
+        {
+            "CIK": "0000789073",
+            "Name": "Beam Suntory Inc.",
+            "Ticker": "BEAM"
+        },
+        {
+            "CIK": "0000038777",
+            "Name": "FRANKLIN RESOURCES INC",
+            "Ticker": "BEN"
+        },
+        {
+            "CIK": "0000808362",
+            "Name": "BAKER HUGHES INC",
+            "Ticker": "BHI"
+        },
+        {
+            "CIK": "0000875045",
+            "Name": "BIOGEN IDEC INC.",
+            "Ticker": "BIIB"
+        },
+        {
+            "CIK": "0001390777",
+            "Name": "Bank of New York Mellon Corp",
+            "Ticker": "BK"
+        },
+        {
+            "CIK": "0001364742",
+            "Name": "BlackRock Inc.",
+            "Ticker": "BLK"
+        },
+        {
+            "CIK": "0000009389",
+            "Name": "BALL CORP",
+            "Ticker": "BLL"
+        },
+        {
+            "CIK": "0000835729",
+            "Name": "BMC SOFTWARE INC",
+            "Ticker": "BMC"
+        },
+        {
+            "CIK": "0000011199",
+            "Name": "BEMIS CO INC",
+            "Ticker": "BMS"
+        },
+        {
+            "CIK": "0000014272",
+            "Name": "BRISTOL MYERS SQUIBB CO",
+            "Ticker": "BMY"
+        },
+        {
+            "CIK": "0001054374",
+            "Name": "BROADCOM CORP",
+            "Ticker": "BRCM"
+        },
+        {
+            "CIK": "0000885725",
+            "Name": "BOSTON SCIENTIFIC CORP",
+            "Ticker": "BSX"
+        },
+        {
+            "CIK": "0001064728",
+            "Name": "PEABODY ENERGY CORP",
+            "Ticker": "BTU"
+        },
+        {
+            "CIK": "0000908255",
+            "Name": "BORGWARNER INC",
+            "Ticker": "BWA"
+        },
+        {
+            "CIK": "0001037540",
+            "Name": "BOSTON PROPERTIES INC",
+            "Ticker": "BXP"
+        },
+        {
+            "CIK": "0000831001",
+            "Name": "CITIGROUP INC",
+            "Ticker": "C"
+        },
+        {
+            "CIK": "0000356028",
+            "Name": "CA, INC.",
+            "Ticker": "CA"
+        },
+        {
+            "CIK": "0000023217",
+            "Name": "CONAGRA FOODS INC /DE/",
+            "Ticker": "CAG"
+        },
+        {
+            "CIK": "0000721371",
+            "Name": "CARDINAL HEALTH INC",
+            "Ticker": "CAH"
+        },
+        {
+            "CIK": "0000941548",
+            "Name": "CAMERON INTERNATIONAL CORP",
+            "Ticker": "CAM"
+        },
+        {
+            "CIK": "0000018230",
+            "Name": "CATERPILLAR INC",
+            "Ticker": "CAT"
+        },
+        {
+            "CIK": "0000020171",
+            "Name": "CHUBB CORP",
+            "Ticker": "CB"
+        },
+        {
+            "CIK": "0001138118",
+            "Name": "CBRE GROUP, INC.",
+            "Ticker": "CBG"
+        },
+        {
+            "CIK": "0000813828",
+            "Name": "CBS CORP",
+            "Ticker": "CBS"
+        },
+        {
+            "CIK": "0001491675",
+            "Name": "COCA-COLA ENTERPRISES, INC.",
+            "Ticker": "CCE"
+        },
+        {
+            "CIK": "0001051470",
+            "Name": "CROWN CASTLE INTERNATIONAL CORP",
+            "Ticker": "CCI"
+        },
+        {
+            "CIK": "0000815097",
+            "Name": "CARNIVAL CORP",
+            "Ticker": "CCL"
+        },
+        {
+            "CIK": "0000816284",
+            "Name": "CELGENE CORP /DE/",
+            "Ticker": "CELG"
+        },
+        {
+            "CIK": "0000804753",
+            "Name": "CERNER CORP /MO/",
+            "Ticker": "CERN"
+        },
+        {
+            "CIK": "0001324404",
+            "Name": "CF Industries Holdings, Inc.",
+            "Ticker": "CF"
+        },
+        {
+            "CIK": "0001457543",
+            "Name": "CAREFUSION Corp",
+            "Ticker": "CFN"
+        },
+        {
+            "CIK": "0000895126",
+            "Name": "CHESAPEAKE ENERGY CORP",
+            "Ticker": "CHK"
+        },
+        {
+            "CIK": "0001043277",
+            "Name": "C H ROBINSON WORLDWIDE INC",
+            "Ticker": "CHRW"
+        },
+        {
+            "CIK": "0000701221",
+            "Name": "CIGNA CORP",
+            "Ticker": "CI"
+        },
+        {
+            "CIK": "0000020286",
+            "Name": "CINCINNATI FINANCIAL CORP",
+            "Ticker": "CINF"
+        },
+        {
+            "CIK": "0000021665",
+            "Name": "COLGATE PALMOLIVE CO",
+            "Ticker": "CL"
+        },
+        {
+            "CIK": "0000764065",
+            "Name": "CLIFFS NATURAL RESOURCES INC.",
+            "Ticker": "CLF"
+        },
+        {
+            "CIK": "0000021076",
+            "Name": "CLOROX CO /DE/",
+            "Ticker": "CLX"
+        },
+        {
+            "CIK": "0000028412",
+            "Name": "COMERICA INC /NEW/",
+            "Ticker": "CMA"
+        },
+        {
+            "CIK": "0001166691",
+            "Name": "COMCAST CORP",
+            "Ticker": "CMCSA"
+        },
+        {
+            "CIK": "0001156375",
+            "Name": "CME GROUP INC.",
+            "Ticker": "CME"
+        },
+        {
+            "CIK": "0001058090",
+            "Name": "CHIPOTLE MEXICAN GRILL INC",
+            "Ticker": "CMG"
+        },
+        {
+            "CIK": "0000026172",
+            "Name": "CUMMINS INC",
+            "Ticker": "CMI"
+        },
+        {
+            "CIK": "0000811156",
+            "Name": "CMS ENERGY CORP",
+            "Ticker": "CMS"
+        },
+        {
+            "CIK": "0001130310",
+            "Name": "CENTERPOINT ENERGY INC",
+            "Ticker": "CNP"
+        },
+        {
+            "CIK": "0001070412",
+            "Name": "CONSOL Energy Inc",
+            "Ticker": "CNX"
+        },
+        {
+            "CIK": "0000927628",
+            "Name": "CAPITAL ONE FINANCIAL CORP",
+            "Ticker": "COF"
+        },
+        {
+            "CIK": "0000858470",
+            "Name": "CABOT OIL & GAS CORP",
+            "Ticker": "COG"
+        },
+        {
+            "CIK": "0001116132",
+            "Name": "COACH INC",
+            "Ticker": "COH"
+        },
+        {
+            "CIK": "0001137411",
+            "Name": "ROCKWELL COLLINS INC",
+            "Ticker": "COL"
+        },
+        {
+            "CIK": "0001163165",
+            "Name": "CONOCOPHILLIPS",
+            "Ticker": "COP"
+        },
+        {
+            "CIK": "0000909832",
+            "Name": "COSTCO WHOLESALE CORP /NEW",
+            "Ticker": "COST"
+        },
+        {
+            "CIK": "0001385187",
+            "Name": "Covidien plc",
+            "Ticker": "COV"
+        },
+        {
+            "CIK": "0000016732",
+            "Name": "CAMPBELL SOUP CO",
+            "Ticker": "CPB"
+        },
+        {
+            "CIK": "0001108524",
+            "Name": "SALESFORCE COM INC",
+            "Ticker": "CRM"
+        },
+        {
+            "CIK": "0000023082",
+            "Name": "COMPUTER SCIENCES CORP",
+            "Ticker": "CSC"
+        },
+        {
+            "CIK": "0000858877",
+            "Name": "CISCO SYSTEMS, INC.",
+            "Ticker": "CSCO"
+        },
+        {
+            "CIK": "0000277948",
+            "Name": "CSX CORP",
+            "Ticker": "CSX"
+        },
+        {
+            "CIK": "0000723254",
+            "Name": "CINTAS CORP",
+            "Ticker": "CTAS"
+        },
+        {
+            "CIK": "0000018926",
+            "Name": "CENTURYLINK, INC",
+            "Ticker": "CTL"
+        },
+        {
+            "CIK": "0001058290",
+            "Name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+            "Ticker": "CTSH"
+        },
+        {
+            "CIK": "0000877890",
+            "Name": "CITRIX SYSTEMS INC",
+            "Ticker": "CTXS"
+        },
+        {
+            "CIK": "0001053112",
+            "Name": "CABLEVISION SYSTEMS CORP /NY",
+            "Ticker": "CVC"
+        },
+        {
+            "CIK": "0001054833",
+            "Name": "COVENTRY HEALTH CARE INC",
+            "Ticker": "CVH"
+        },
+        {
+            "CIK": "0000064803",
+            "Name": "CVS CAREMARK CORP",
+            "Ticker": "CVS"
+        },
+        {
+            "CIK": "0000093410",
+            "Name": "CHEVRON CORP",
+            "Ticker": "CVX"
+        },
+        {
+            "CIK": "0000715957",
+            "Name": "DOMINION RESOURCES INC /VA/",
+            "Ticker": "D"
+        },
+        {
+            "CIK": "0000030554",
+            "Name": "DUPONT E I DE NEMOURS & CO",
+            "Ticker": "DD"
+        },
+        {
+            "CIK": "0000315189",
+            "Name": "DEERE & CO",
+            "Ticker": "DE"
+        },
+        {
+            "CIK": "0000826083",
+            "Name": "DELL INC",
+            "Ticker": "DELL"
+        },
+        {
+            "CIK": "0000931336",
+            "Name": "DEAN FOODS CO",
+            "Ticker": "DF"
+        },
+        {
+            "CIK": "0001393612",
+            "Name": "Discover Financial Services",
+            "Ticker": "DFS"
+        },
+        {
+            "CIK": "0000029534",
+            "Name": "DOLLAR GENERAL CORP",
+            "Ticker": "DG"
+        },
+        {
+            "CIK": "0001022079",
+            "Name": "QUEST DIAGNOSTICS INC",
+            "Ticker": "DGX"
+        },
+        {
+            "CIK": "0000882184",
+            "Name": "HORTON D R INC /DE/",
+            "Ticker": "DHI"
+        },
+        {
+            "CIK": "0000313616",
+            "Name": "DANAHER CORP /DE/",
+            "Ticker": "DHR"
+        },
+        {
+            "CIK": "0001001039",
+            "Name": "WALT DISNEY CO/",
+            "Ticker": "DIS"
+        },
+        {
+            "CIK": "0001437107",
+            "Name": "Discovery Communications, Inc.",
+            "Ticker": "DISCA"
+        },
+        {
+            "CIK": "0001521332",
+            "Name": "Delphi Automotive PLC",
+            "Ticker": "DLPH"
+        },
+        {
+            "CIK": "0000935703",
+            "Name": "DOLLAR TREE INC",
+            "Ticker": "DLTR"
+        },
+        {
+            "CIK": "0001115222",
+            "Name": "DUN & BRADSTREET CORP/NW",
+            "Ticker": "DNB"
+        },
+        {
+            "CIK": "0000945764",
+            "Name": "DENBURY RESOURCES INC",
+            "Ticker": "DNR"
+        },
+        {
+            "CIK": "0000949039",
+            "Name": "DIAMOND OFFSHORE DRILLING INC",
+            "Ticker": "DO"
+        },
+        {
+            "CIK": "0000029905",
+            "Name": "DOVER Corp",
+            "Ticker": "DOV"
+        },
+        {
+            "CIK": "0000029915",
+            "Name": "DOW CHEMICAL CO /DE/",
+            "Ticker": "DOW"
+        },
+        {
+            "CIK": "0001418135",
+            "Name": "Dr Pepper Snapple Group, Inc.",
+            "Ticker": "DPS"
+        },
+        {
+            "CIK": "0000940944",
+            "Name": "DARDEN RESTAURANTS INC",
+            "Ticker": "DRI"
+        },
+        {
+            "CIK": "0000936340",
+            "Name": "DTE ENERGY CO",
+            "Ticker": "DTE"
+        },
+        {
+            "CIK": "0001465112",
+            "Name": "DIRECTV",
+            "Ticker": "DTV"
+        },
+        {
+            "CIK": "0001326160",
+            "Name": "Duke Energy CORP",
+            "Ticker": "DUK"
+        },
+        {
+            "CIK": "0000927066",
+            "Name": "DAVITA HEALTHCARE PARTNERS INC.",
+            "Ticker": "DVA"
+        },
+        {
+            "CIK": "0001090012",
+            "Name": "DEVON ENERGY CORP/DE",
+            "Ticker": "DVN"
+        },
+        {
+            "CIK": "0000712515",
+            "Name": "ELECTRONIC ARTS INC.",
+            "Ticker": "EA"
+        },
+        {
+            "CIK": "0001065088",
+            "Name": "EBAY INC",
+            "Ticker": "EBAY"
+        },
+        {
+            "CIK": "0000031462",
+            "Name": "ECOLAB INC",
+            "Ticker": "ECL"
+        },
+        {
+            "CIK": "0001047862",
+            "Name": "CONSOLIDATED EDISON INC",
+            "Ticker": "ED"
+        },
+        {
+            "CIK": "0000033185",
+            "Name": "EQUIFAX INC",
+            "Ticker": "EFX"
+        },
+        {
+            "CIK": "0000827052",
+            "Name": "EDISON INTERNATIONAL",
+            "Ticker": "EIX"
+        },
+        {
+            "CIK": "0001001250",
+            "Name": "ESTEE LAUDER COMPANIES INC",
+            "Ticker": "EL"
+        },
+        {
+            "CIK": "0000790070",
+            "Name": "EMC CORP",
+            "Ticker": "EMC"
+        },
+        {
+            "CIK": "0000915389",
+            "Name": "EASTMAN CHEMICAL CO",
+            "Ticker": "EMN"
+        },
+        {
+            "CIK": "0000032604",
+            "Name": "EMERSON ELECTRIC CO",
+            "Ticker": "EMR"
+        },
+        {
+            "CIK": "0000821189",
+            "Name": "EOG RESOURCES INC",
+            "Ticker": "EOG"
+        },
+        {
+            "CIK": "0000906107",
+            "Name": "EQUITY RESIDENTIAL",
+            "Ticker": "EQR"
+        },
+        {
+            "CIK": "0000033213",
+            "Name": "EQT Corp",
+            "Ticker": "EQT"
+        },
+        {
+            "CIK": "0001532063",
+            "Name": "Express Scripts Holding Co.",
+            "Ticker": "ESRX"
+        },
+        {
+            "CIK": "0000314808",
+            "Name": "Ensco plc",
+            "Ticker": "ESV"
+        },
+        {
+            "CIK": "0001015780",
+            "Name": "E TRADE FINANCIAL Corp",
+            "Ticker": "ETFC"
+        },
+        {
+            "CIK": "0001551182",
+            "Name": "Eaton Corp plc",
+            "Ticker": "ETN"
+        },
+        {
+            "CIK": "0000065984",
+            "Name": "ENTERGY CORP /DE/",
+            "Ticker": "ETR"
+        },
+        {
+            "CIK": "0001099800",
+            "Name": "Edwards Lifesciences Corp",
+            "Ticker": "EW"
+        },
+        {
+            "CIK": "0001109357",
+            "Name": "EXELON CORP",
+            "Ticker": "EXC"
+        },
+        {
+            "CIK": "0000746515",
+            "Name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+            "Ticker": "EXPD"
+        },
+        {
+            "CIK": "0001324424",
+            "Name": "Expedia, Inc.",
+            "Ticker": "EXPE"
+        },
+        {
+            "CIK": "0000037996",
+            "Name": "FORD MOTOR CO",
+            "Ticker": "F"
+        },
+        {
+            "CIK": "0000815556",
+            "Name": "FASTENAL CO",
+            "Ticker": "FAST"
+        },
+        {
+            "CIK": "0000831259",
+            "Name": "FREEPORT MCMORAN COPPER & GOLD INC",
+            "Ticker": "FCX"
+        },
+        {
+            "CIK": "0000034408",
+            "Name": "FAMILY DOLLAR STORES INC",
+            "Ticker": "FDO"
+        },
+        {
+            "CIK": "0001048911",
+            "Name": "FEDEX CORP",
+            "Ticker": "FDX"
+        },
+        {
+            "CIK": "0001031296",
+            "Name": "FIRSTENERGY CORP",
+            "Ticker": "FE"
+        },
+        {
+            "CIK": "0001048695",
+            "Name": "F5 NETWORKS INC",
+            "Ticker": "FFIV"
+        },
+        {
+            "CIK": "0000036966",
+            "Name": "FIRST HORIZON NATIONAL CORP",
+            "Ticker": "FHN"
+        },
+        {
+            "CIK": "0001136893",
+            "Name": "Fidelity National Information Services, Inc.",
+            "Ticker": "FIS"
+        },
+        {
+            "CIK": "0000798354",
+            "Name": "FISERV INC",
+            "Ticker": "FISV"
+        },
+        {
+            "CIK": "0000035527",
+            "Name": "FIFTH THIRD BANCORP",
+            "Ticker": "FITB"
+        },
+        {
+            "CIK": "0000354908",
+            "Name": "FLIR SYSTEMS INC",
+            "Ticker": "FLIR"
+        },
+        {
+            "CIK": "0001124198",
+            "Name": "FLUOR CORP",
+            "Ticker": "FLR"
+        },
+        {
+            "CIK": "0000030625",
+            "Name": "FLOWSERVE CORP",
+            "Ticker": "FLS"
+        },
+        {
+            "CIK": "0000037785",
+            "Name": "FMC CORP",
+            "Ticker": "FMC"
+        },
+        {
+            "CIK": "0000883569",
+            "Name": "Fossil Group, Inc.",
+            "Ticker": "FOSL"
+        },
+        {
+            "CIK": "0000038074",
+            "Name": "Forest Laboratories, LLC",
+            "Ticker": "FRX"
+        },
+        {
+            "CIK": "0001274494",
+            "Name": "FIRST SOLAR, INC.",
+            "Ticker": "FSLR"
+        },
+        {
+            "CIK": "0001135152",
+            "Name": "FMC TECHNOLOGIES INC",
+            "Ticker": "FTI"
+        },
+        {
+            "CIK": "0000020520",
+            "Name": "FRONTIER COMMUNICATIONS CORP",
+            "Ticker": "FTR"
+        },
+        {
+            "CIK": "0001004155",
+            "Name": "AGL RESOURCES INC",
+            "Ticker": "GAS"
+        },
+        {
+            "CIK": "0000039899",
+            "Name": "GANNETT CO INC /DE/",
+            "Ticker": "GCI"
+        },
+        {
+            "CIK": "0000040533",
+            "Name": "GENERAL DYNAMICS CORP",
+            "Ticker": "GD"
+        },
+        {
+            "CIK": "0000040545",
+            "Name": "GENERAL ELECTRIC CO",
+            "Ticker": "GE"
+        },
+        {
+            "CIK": "0000882095",
+            "Name": "GILEAD SCIENCES INC",
+            "Ticker": "GILD"
+        },
+        {
+            "CIK": "0000040704",
+            "Name": "GENERAL MILLS INC",
+            "Ticker": "GIS"
+        },
+        {
+            "CIK": "0000024741",
+            "Name": "CORNING INC /NY",
+            "Ticker": "GLW"
+        },
+        {
+            "CIK": "0001326380",
+            "Name": "GameStop Corp.",
+            "Ticker": "GME"
+        },
+        {
+            "CIK": "0001276520",
+            "Name": "GENWORTH FINANCIAL INC",
+            "Ticker": "GNW"
+        },
+        {
+            "CIK": "0001288776",
+            "Name": "Google Inc.",
+            "Ticker": "GOOG"
+        },
+        {
+            "CIK": "0000040987",
+            "Name": "GENUINE PARTS CO",
+            "Ticker": "GPC"
+        },
+        {
+            "CIK": "0000039911",
+            "Name": "GAP INC",
+            "Ticker": "GPS"
+        },
+        {
+            "CIK": "0001121788",
+            "Name": "GARMIN LTD",
+            "Ticker": "GRMN"
+        },
+        {
+            "CIK": "0000886982",
+            "Name": "GOLDMAN SACHS GROUP INC",
+            "Ticker": "GS"
+        },
+        {
+            "CIK": "0000042582",
+            "Name": "GOODYEAR TIRE & RUBBER CO /OH/",
+            "Ticker": "GT"
+        },
+        {
+            "CIK": "0000277135",
+            "Name": "GRAINGER W W INC",
+            "Ticker": "GWW"
+        },
+        {
+            "CIK": "0000045012",
+            "Name": "HALLIBURTON CO",
+            "Ticker": "HAL"
+        },
+        {
+            "CIK": "0000800459",
+            "Name": "HARMAN INTERNATIONAL INDUSTRIES INC /DE/",
+            "Ticker": "HAR"
+        },
+        {
+            "CIK": "0000046080",
+            "Name": "HASBRO INC",
+            "Ticker": "HAS"
+        },
+        {
+            "CIK": "0000049196",
+            "Name": "HUNTINGTON BANCSHARES INC/MD",
+            "Ticker": "HBAN"
+        },
+        {
+            "CIK": "0000921847",
+            "Name": "HUDSON CITY BANCORP INC",
+            "Ticker": "HCBK"
+        },
+        {
+            "CIK": "0000766704",
+            "Name": "HEALTH CARE REIT INC /DE/",
+            "Ticker": "HCN"
+        },
+        {
+            "CIK": "0000765880",
+            "Name": "HCP, INC.",
+            "Ticker": "HCP"
+        },
+        {
+            "CIK": "0000354950",
+            "Name": "HOME DEPOT INC",
+            "Ticker": "HD"
+        },
+        {
+            "CIK": "0000004447",
+            "Name": "HESS CORP",
+            "Ticker": "HES"
+        },
+        {
+            "CIK": "0000874766",
+            "Name": "HARTFORD FINANCIAL SERVICES GROUP INC/DE",
+            "Ticker": "HIG"
+        },
+        {
+            "CIK": "0000046640",
+            "Name": "HEINZ H J CO",
+            "Ticker": "HNZ"
+        },
+        {
+            "CIK": "0000793952",
+            "Name": "HARLEY DAVIDSON INC",
+            "Ticker": "HOG"
+        },
+        {
+            "CIK": "0000773840",
+            "Name": "HONEYWELL INTERNATIONAL INC",
+            "Ticker": "HON"
+        },
+        {
+            "CIK": "0000316206",
+            "Name": "STARWOOD HOTEL & RESORTS WORLDWIDE, INC",
+            "Ticker": "HOT"
+        },
+        {
+            "CIK": "0000046765",
+            "Name": "HELMERICH & PAYNE INC",
+            "Ticker": "HP"
+        },
+        {
+            "CIK": "0000047217",
+            "Name": "HEWLETT PACKARD CO",
+            "Ticker": "HPQ"
+        },
+        {
+            "CIK": "0000012659",
+            "Name": "H&R BLOCK INC",
+            "Ticker": "HRB"
+        },
+        {
+            "CIK": "0000048465",
+            "Name": "HORMEL FOODS CORP /DE/",
+            "Ticker": "HRL"
+        },
+        {
+            "CIK": "0000202058",
+            "Name": "HARRIS CORP /DE/",
+            "Ticker": "HRS"
+        },
+        {
+            "CIK": "0001274057",
+            "Name": "HOSPIRA INC",
+            "Ticker": "HSP"
+        },
+        {
+            "CIK": "0001070750",
+            "Name": "HOST HOTELS & RESORTS, INC.",
+            "Ticker": "HST"
+        },
+        {
+            "CIK": "0000047111",
+            "Name": "HERSHEY CO",
+            "Ticker": "HSY"
+        },
+        {
+            "CIK": "0000049071",
+            "Name": "HUMANA INC",
+            "Ticker": "HUM"
+        },
+        {
+            "CIK": "0000051143",
+            "Name": "INTERNATIONAL BUSINESS MACHINES CORP",
+            "Ticker": "IBM"
+        },
+        {
+            "CIK": "0001571949",
+            "Name": "Intercontinental Exchange, Inc.",
+            "Ticker": "ICE"
+        },
+        {
+            "CIK": "0000051253",
+            "Name": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
+            "Ticker": "IFF"
+        },
+        {
+            "CIK": "0000353944",
+            "Name": "INTERNATIONAL GAME TECHNOLOGY",
+            "Ticker": "IGT"
+        },
+        {
+            "CIK": "0000050863",
+            "Name": "INTEL CORP",
+            "Ticker": "INTC"
+        },
+        {
+            "CIK": "0000896878",
+            "Name": "INTUIT INC",
+            "Ticker": "INTU"
+        },
+        {
+            "CIK": "0000051434",
+            "Name": "INTERNATIONAL PAPER CO /NEW/",
+            "Ticker": "IP"
+        },
+        {
+            "CIK": "0000051644",
+            "Name": "INTERPUBLIC GROUP OF COMPANIES, INC.",
+            "Ticker": "IPG"
+        },
+        {
+            "CIK": "0001466258",
+            "Name": "Ingersoll-Rand plc",
+            "Ticker": "IR"
+        },
+        {
+            "CIK": "0001020569",
+            "Name": "IRON MOUNTAIN INC",
+            "Ticker": "IRM"
+        },
+        {
+            "CIK": "0001035267",
+            "Name": "INTUITIVE SURGICAL INC",
+            "Ticker": "ISRG"
+        },
+        {
+            "CIK": "0000049826",
+            "Name": "ILLINOIS TOOL WORKS INC",
+            "Ticker": "ITW"
+        },
+        {
+            "CIK": "0000914208",
+            "Name": "Invesco Ltd.",
+            "Ticker": "IVZ"
+        },
+        {
+            "CIK": "0000898293",
+            "Name": "JABIL CIRCUIT INC",
+            "Ticker": "JBL"
+        },
+        {
+            "CIK": "0000053669",
+            "Name": "JOHNSON CONTROLS INC",
+            "Ticker": "JCI"
+        },
+        {
+            "CIK": "0001166126",
+            "Name": "J C PENNEY CO INC",
+            "Ticker": "JCP"
+        },
+        {
+            "CIK": "0000912093",
+            "Name": "JDS UNIPHASE CORP /CA/",
+            "Ticker": "JDSU"
+        },
+        {
+            "CIK": "0000052988",
+            "Name": "JACOBS ENGINEERING GROUP INC /DE/",
+            "Ticker": "JEC"
+        },
+        {
+            "CIK": "0000200406",
+            "Name": "JOHNSON & JOHNSON",
+            "Ticker": "JNJ"
+        },
+        {
+            "CIK": "0001043604",
+            "Name": "JUNIPER NETWORKS INC",
+            "Ticker": "JNPR"
+        },
+        {
+            "CIK": "0000801898",
+            "Name": "JOY GLOBAL INC",
+            "Ticker": "JOY"
+        },
+        {
+            "CIK": "0000019617",
+            "Name": "JPMORGAN CHASE & CO",
+            "Ticker": "JPM"
+        },
+        {
+            "CIK": "0000072333",
+            "Name": "NORDSTROM INC",
+            "Ticker": "JWN"
+        },
+        {
+            "CIK": "0000055067",
+            "Name": "KELLOGG CO",
+            "Ticker": "K"
+        },
+        {
+            "CIK": "0000091576",
+            "Name": "KEYCORP /NEW/",
+            "Ticker": "KEY"
+        },
+        {
+            "CIK": "0000879101",
+            "Name": "KIMCO REALTY CORP",
+            "Ticker": "KIM"
+        },
+        {
+            "CIK": "0000319201",
+            "Name": "KLA TENCOR CORP",
+            "Ticker": "KLAC"
+        },
+        {
+            "CIK": "0000055785",
+            "Name": "KIMBERLY CLARK CORP",
+            "Ticker": "KMB"
+        },
+        {
+            "CIK": "0001506307",
+            "Name": "KINDER MORGAN, INC.",
+            "Ticker": "KMI"
+        },
+        {
+            "CIK": "0001170010",
+            "Name": "CARMAX INC",
+            "Ticker": "KMX"
+        },
+        {
+            "CIK": "0000021344",
+            "Name": "COCA COLA CO",
+            "Ticker": "KO"
+        },
+        {
+            "CIK": "0000056873",
+            "Name": "KROGER CO",
+            "Ticker": "KR"
+        },
+        {
+            "CIK": "0001545158",
+            "Name": "Kraft Foods Group, Inc.",
+            "Ticker": "KRFT"
+        },
+        {
+            "CIK": "0000885639",
+            "Name": "KOHLS Corp",
+            "Ticker": "KSS"
+        },
+        {
+            "CIK": "0000060086",
+            "Name": "LOEWS CORP",
+            "Ticker": "L"
+        },
+        {
+            "CIK": "0000058492",
+            "Name": "LEGGETT & PLATT INC",
+            "Ticker": "LEG"
+        },
+        {
+            "CIK": "0000920760",
+            "Name": "LENNAR CORP /NEW/",
+            "Ticker": "LEN"
+        },
+        {
+            "CIK": "0000920148",
+            "Name": "LABORATORY CORP OF AMERICA HOLDINGS",
+            "Ticker": "LH"
+        },
+        {
+            "CIK": "0001073431",
+            "Name": "Life Technologies Corp",
+            "Ticker": "LIFE"
+        },
+        {
+            "CIK": "0001056239",
+            "Name": "L 3 COMMUNICATIONS HOLDINGS INC",
+            "Ticker": "LLL"
+        },
+        {
+            "CIK": "0000791907",
+            "Name": "LINEAR TECHNOLOGY CORP /CA/",
+            "Ticker": "LLTC"
+        },
+        {
+            "CIK": "0000059478",
+            "Name": "LILLY ELI & CO",
+            "Ticker": "LLY"
+        },
+        {
+            "CIK": "0000704051",
+            "Name": "LEGG MASON, INC.",
+            "Ticker": "LM"
+        },
+        {
+            "CIK": "0000936468",
+            "Name": "LOCKHEED MARTIN CORP",
+            "Ticker": "LMT"
+        },
+        {
+            "CIK": "0000059558",
+            "Name": "LINCOLN NATIONAL CORP",
+            "Ticker": "LNC"
+        },
+        {
+            "CIK": "0001424847",
+            "Name": "LORILLARD, INC.",
+            "Ticker": "LO"
+        },
+        {
+            "CIK": "0000060667",
+            "Name": "LOWES COMPANIES INC",
+            "Ticker": "LOW"
+        },
+        {
+            "CIK": "0000707549",
+            "Name": "LAM RESEARCH CORP",
+            "Ticker": "LRCX"
+        },
+        {
+            "CIK": "0000703360",
+            "Name": "LSI CORP",
+            "Ticker": "LSI"
+        },
+        {
+            "CIK": "0000096223",
+            "Name": "LEUCADIA NATIONAL CORP",
+            "Ticker": "LUK"
+        },
+        {
+            "CIK": "0000092380",
+            "Name": "SOUTHWEST AIRLINES CO",
+            "Ticker": "LUV"
+        },
+        {
+            "CIK": "0001489393",
+            "Name": "LyondellBasell Industries N.V.",
+            "Ticker": "LYB"
+        },
+        {
+            "CIK": "0000794367",
+            "Name": "Macy's, Inc.",
+            "Ticker": "M"
+        },
+        {
+            "CIK": "0001141391",
+            "Name": "MASTERCARD INC",
+            "Ticker": "MA"
+        },
+        {
+            "CIK": "0001048286",
+            "Name": "MARRIOTT INTERNATIONAL INC /MD/",
+            "Ticker": "MAR"
+        },
+        {
+            "CIK": "0000062996",
+            "Name": "MASCO CORP /DE/",
+            "Ticker": "MAS"
+        },
+        {
+            "CIK": "0000063276",
+            "Name": "MATTEL INC /DE/",
+            "Ticker": "MAT"
+        },
+        {
+            "CIK": "0000063908",
+            "Name": "MCDONALDS CORP",
+            "Ticker": "MCD"
+        },
+        {
+            "CIK": "0000827054",
+            "Name": "MICROCHIP TECHNOLOGY INC",
+            "Ticker": "MCHP"
+        },
+        {
+            "CIK": "0000927653",
+            "Name": "MCKESSON CORP",
+            "Ticker": "MCK"
+        },
+        {
+            "CIK": "0001059556",
+            "Name": "MOODYS CORP /DE/",
+            "Ticker": "MCO"
+        },
+        {
+            "CIK": "0001103982",
+            "Name": "Mondelez International, Inc.",
+            "Ticker": "MDLZ"
+        },
+        {
+            "CIK": "0000064670",
+            "Name": "MEDTRONIC INC",
+            "Ticker": "MDT"
+        },
+        {
+            "CIK": "0001099219",
+            "Name": "METLIFE INC",
+            "Ticker": "MET"
+        },
+        {
+            "CIK": "0001452575",
+            "Name": "Mead Johnson Nutrition Co",
+            "Ticker": "MJN"
+        },
+        {
+            "CIK": "0000063754",
+            "Name": "MCCORMICK & CO INC",
+            "Ticker": "MKC"
+        },
+        {
+            "CIK": "0000062709",
+            "Name": "MARSH & MCLENNAN COMPANIES, INC.",
+            "Ticker": "MMC"
+        },
+        {
+            "CIK": "0000066740",
+            "Name": "3M CO",
+            "Ticker": "MMM"
+        },
+        {
+            "CIK": "0000865752",
+            "Name": "Monster Beverage Corp",
+            "Ticker": "MNST"
+        },
+        {
+            "CIK": "0000764180",
+            "Name": "ALTRIA GROUP, INC.",
+            "Ticker": "MO"
+        },
+        {
+            "CIK": "0000067472",
+            "Name": "MOLEX INC",
+            "Ticker": "MOLX"
+        },
+        {
+            "CIK": "0001110783",
+            "Name": "MONSANTO CO /NEW/",
+            "Ticker": "MON"
+        },
+        {
+            "CIK": "0001285785",
+            "Name": "MOSAIC CO",
+            "Ticker": "MOS"
+        },
+        {
+            "CIK": "0001510295",
+            "Name": "Marathon Petroleum Corp",
+            "Ticker": "MPC"
+        },
+        {
+            "CIK": "0000310158",
+            "Name": "Merck & Co. Inc.",
+            "Ticker": "MRK"
+        },
+        {
+            "CIK": "0000101778",
+            "Name": "MARATHON OIL CORP",
+            "Ticker": "MRO"
+        },
+        {
+            "CIK": "0000895421",
+            "Name": "MORGAN STANLEY",
+            "Ticker": "MS"
+        },
+        {
+            "CIK": "0000789019",
+            "Name": "MICROSOFT CORP",
+            "Ticker": "MSFT"
+        },
+        {
+            "CIK": "0000068505",
+            "Name": "Motorola Solutions, Inc.",
+            "Ticker": "MSI"
+        },
+        {
+            "CIK": "0000036270",
+            "Name": "M&T BANK CORP",
+            "Ticker": "MTB"
+        },
+        {
+            "CIK": "0000723125",
+            "Name": "MICRON TECHNOLOGY INC",
+            "Ticker": "MU"
+        },
+        {
+            "CIK": "0000717423",
+            "Name": "MURPHY OIL CORP /DE",
+            "Ticker": "MUR"
+        },
+        {
+            "CIK": "0001159297",
+            "Name": "MEADWESTVACO Corp",
+            "Ticker": "MWV"
+        },
+        {
+            "CIK": "0000069499",
+            "Name": "MYLAN INC.",
+            "Ticker": "MYL"
+        },
+        {
+            "CIK": "0000072207",
+            "Name": "NOBLE ENERGY INC",
+            "Ticker": "NBL"
+        },
+        {
+            "CIK": "0001163739",
+            "Name": "NABORS INDUSTRIES LTD",
+            "Ticker": "NBR"
+        },
+        {
+            "CIK": "0001120193",
+            "Name": "NASDAQ OMX GROUP, INC.",
+            "Ticker": "NDAQ"
+        },
+        {
+            "CIK": "0001458891",
+            "Name": "Noble Corp plc",
+            "Ticker": "NE"
+        },
+        {
+            "CIK": "0000753308",
+            "Name": "NEXTERA ENERGY INC",
+            "Ticker": "NEE"
+        },
+        {
+            "CIK": "0001164727",
+            "Name": "NEWMONT MINING CORP /DE/",
+            "Ticker": "NEM"
+        },
+        {
+            "CIK": "0001065280",
+            "Name": "NETFLIX INC",
+            "Ticker": "NFLX"
+        },
+        {
+            "CIK": "0000912750",
+            "Name": "NEWFIELD EXPLORATION CO /DE/",
+            "Ticker": "NFX"
+        },
+        {
+            "CIK": "0001111711",
+            "Name": "NISOURCE INC/DE",
+            "Ticker": "NI"
+        },
+        {
+            "CIK": "0000320187",
+            "Name": "NIKE INC",
+            "Ticker": "NKE"
+        },
+        {
+            "CIK": "0001133421",
+            "Name": "NORTHROP GRUMMAN CORP /DE/",
+            "Ticker": "NOC"
+        },
+        {
+            "CIK": "0001021860",
+            "Name": "NATIONAL OILWELL VARCO INC",
+            "Ticker": "NOV"
+        },
+        {
+            "CIK": "0001013871",
+            "Name": "NRG ENERGY, INC.",
+            "Ticker": "NRG"
+        },
+        {
+            "CIK": "0000702165",
+            "Name": "NORFOLK SOUTHERN CORP",
+            "Ticker": "NSC"
+        },
+        {
+            "CIK": "0001002047",
+            "Name": "NetApp, Inc.",
+            "Ticker": "NTAP"
+        },
+        {
+            "CIK": "0000073124",
+            "Name": "NORTHERN TRUST CORP",
+            "Ticker": "NTRS"
+        },
+        {
+            "CIK": "0000072741",
+            "Name": "NORTHEAST UTILITIES",
+            "Ticker": "NU"
+        },
+        {
+            "CIK": "0000073309",
+            "Name": "NUCOR CORP",
+            "Ticker": "NUE"
+        },
+        {
+            "CIK": "0001045810",
+            "Name": "NVIDIA CORP",
+            "Ticker": "NVDA"
+        },
+        {
+            "CIK": "0000814453",
+            "Name": "NEWELL RUBBERMAID INC",
+            "Ticker": "NWL"
+        },
+        {
+            "CIK": "0001564708",
+            "Name": "NEWS CORP",
+            "Ticker": "NWSA"
+        },
+        {
+            "CIK": "0001368007",
+            "Name": "NYSE Euronext",
+            "Ticker": "NYX"
+        },
+        {
+            "CIK": "0000812074",
+            "Name": "OWENS ILLINOIS INC /DE/",
+            "Ticker": "OI"
+        },
+        {
+            "CIK": "0001039684",
+            "Name": "ONEOK INC /NEW/",
+            "Ticker": "OKE"
+        },
+        {
+            "CIK": "0000029989",
+            "Name": "OMNICOM GROUP INC.",
+            "Ticker": "OMC"
+        },
+        {
+            "CIK": "0001341439",
+            "Name": "ORACLE CORP",
+            "Ticker": "ORCL"
+        },
+        {
+            "CIK": "0000898173",
+            "Name": "O REILLY AUTOMOTIVE INC",
+            "Ticker": "ORLY"
+        },
+        {
+            "CIK": "0000797468",
+            "Name": "OCCIDENTAL PETROLEUM CORP /DE/",
+            "Ticker": "OXY"
+        },
+        {
+            "CIK": "0000723531",
+            "Name": "PAYCHEX INC",
+            "Ticker": "PAYX"
+        },
+        {
+            "CIK": "0001378946",
+            "Name": "People's United Financial, Inc.",
+            "Ticker": "PBCT"
+        },
+        {
+            "CIK": "0000078814",
+            "Name": "PITNEY BOWES INC /DE/",
+            "Ticker": "PBI"
+        },
+        {
+            "CIK": "0000075362",
+            "Name": "PACCAR INC",
+            "Ticker": "PCAR"
+        },
+        {
+            "CIK": "0001004980",
+            "Name": "PG&E Corp",
+            "Ticker": "PCG"
+        },
+        {
+            "CIK": "0000849213",
+            "Name": "PLUM CREEK TIMBER CO INC",
+            "Ticker": "PCL"
+        },
+        {
+            "CIK": "0001075531",
+            "Name": "Priceline Group Inc.",
+            "Ticker": "PCLN"
+        },
+        {
+            "CIK": "0000079958",
+            "Name": "PRECISION CASTPARTS CORP",
+            "Ticker": "PCP"
+        },
+        {
+            "CIK": "0000891024",
+            "Name": "PATTERSON COMPANIES, INC.",
+            "Ticker": "PDCO"
+        },
+        {
+            "CIK": "0000788784",
+            "Name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+            "Ticker": "PEG"
+        },
+        {
+            "CIK": "0000077476",
+            "Name": "PEPSICO INC",
+            "Ticker": "PEP"
+        },
+        {
+            "CIK": "0000863157",
+            "Name": "PETSMART INC",
+            "Ticker": "PETM"
+        },
+        {
+            "CIK": "0000078003",
+            "Name": "PFIZER INC",
+            "Ticker": "PFE"
+        },
+        {
+            "CIK": "0001126328",
+            "Name": "PRINCIPAL FINANCIAL GROUP INC",
+            "Ticker": "PFG"
+        },
+        {
+            "CIK": "0000080424",
+            "Name": "PROCTER & GAMBLE Co",
+            "Ticker": "PG"
+        },
+        {
+            "CIK": "0000080661",
+            "Name": "PROGRESSIVE CORP/OH/",
+            "Ticker": "PGR"
+        },
+        {
+            "CIK": "0000076334",
+            "Name": "PARKER HANNIFIN CORP",
+            "Ticker": "PH"
+        },
+        {
+            "CIK": "0000822416",
+            "Name": "PULTEGROUP INC/MI/",
+            "Ticker": "PHM"
+        },
+        {
+            "CIK": "0000031791",
+            "Name": "PERKINELMER INC",
+            "Ticker": "PKI"
+        },
+        {
+            "CIK": "0001045609",
+            "Name": "Prologis, Inc.",
+            "Ticker": "PLD"
+        },
+        {
+            "CIK": "0000075829",
+            "Name": "PALL CORP",
+            "Ticker": "PLL"
+        },
+        {
+            "CIK": "0001413329",
+            "Name": "Philip Morris International Inc.",
+            "Ticker": "PM"
+        },
+        {
+            "CIK": "0000713676",
+            "Name": "PNC FINANCIAL SERVICES GROUP, INC.",
+            "Ticker": "PNC"
+        },
+        {
+            "CIK": "0000077360",
+            "Name": "PENTAIR plc",
+            "Ticker": "PNR"
+        },
+        {
+            "CIK": "0000764622",
+            "Name": "PINNACLE WEST CAPITAL CORP",
+            "Ticker": "PNW"
+        },
+        {
+            "CIK": "0001135971",
+            "Name": "PEPCO HOLDINGS INC",
+            "Ticker": "POM"
+        },
+        {
+            "CIK": "0000079879",
+            "Name": "PPG INDUSTRIES INC",
+            "Ticker": "PPG"
+        },
+        {
+            "CIK": "0000922224",
+            "Name": "PPL Corp",
+            "Ticker": "PPL"
+        },
+        {
+            "CIK": "0001585364",
+            "Name": "PERRIGO Co plc",
+            "Ticker": "PRGO"
+        },
+        {
+            "CIK": "0001137774",
+            "Name": "PRUDENTIAL FINANCIAL INC",
+            "Ticker": "PRU"
+        },
+        {
+            "CIK": "0001393311",
+            "Name": "Public Storage",
+            "Ticker": "PSA"
+        },
+        {
+            "CIK": "0001534701",
+            "Name": "Phillips 66",
+            "Ticker": "PSX"
+        },
+        {
+            "CIK": "0000078239",
+            "Name": "PVH CORP. /DE/",
+            "Ticker": "PVH"
+        },
+        {
+            "CIK": "0001050915",
+            "Name": "QUANTA SERVICES INC",
+            "Ticker": "PWR"
+        },
+        {
+            "CIK": "0000884905",
+            "Name": "PRAXAIR INC",
+            "Ticker": "PX"
+        },
+        {
+            "CIK": "0001038357",
+            "Name": "PIONEER NATURAL RESOURCES CO",
+            "Ticker": "PXD"
+        },
+        {
+            "CIK": "0000804328",
+            "Name": "QUALCOMM INC/DE",
+            "Ticker": "QCOM"
+        },
+        {
+            "CIK": "0001108827",
+            "Name": "QEP RESOURCES, INC.",
+            "Ticker": "QEP"
+        },
+        {
+            "CIK": "0000085961",
+            "Name": "RYDER SYSTEM INC",
+            "Ticker": "R"
+        },
+        {
+            "CIK": "0001275283",
+            "Name": "REYNOLDS AMERICAN INC",
+            "Ticker": "RAI"
+        },
+        {
+            "CIK": "0000085408",
+            "Name": "ROWAN COMPANIES PLC",
+            "Ticker": "RDC"
+        },
+        {
+            "CIK": "0001281761",
+            "Name": "REGIONS FINANCIAL CORP",
+            "Ticker": "RF"
+        },
+        {
+            "CIK": "0000315213",
+            "Name": "HALF ROBERT INTERNATIONAL INC /DE/",
+            "Ticker": "RHI"
+        },
+        {
+            "CIK": "0001087423",
+            "Name": "RED HAT INC",
+            "Ticker": "RHT"
+        },
+        {
+            "CIK": "0001037038",
+            "Name": "RALPH LAUREN CORP",
+            "Ticker": "RL"
+        },
+        {
+            "CIK": "0001024478",
+            "Name": "ROCKWELL AUTOMATION INC",
+            "Ticker": "ROK"
+        },
+        {
+            "CIK": "0000882835",
+            "Name": "ROPER INDUSTRIES INC",
+            "Ticker": "ROP"
+        },
+        {
+            "CIK": "0000745732",
+            "Name": "ROSS STORES INC",
+            "Ticker": "ROST"
+        },
+        {
+            "CIK": "0000315852",
+            "Name": "RANGE RESOURCES CORP",
+            "Ticker": "RRC"
+        },
+        {
+            "CIK": "0001060391",
+            "Name": "REPUBLIC SERVICES, INC.",
+            "Ticker": "RSG"
+        },
+        {
+            "CIK": "0001047122",
+            "Name": "RAYTHEON CO/",
+            "Ticker": "RTN"
+        },
+        {
+            "CIK": "0000101830",
+            "Name": "SPRINT Corp",
+            "Ticker": "S"
+        },
+        {
+            "CIK": "0000829224",
+            "Name": "STARBUCKS CORP",
+            "Ticker": "SBUX"
+        },
+        {
+            "CIK": "0000754737",
+            "Name": "SCANA CORP",
+            "Ticker": "SCG"
+        },
+        {
+            "CIK": "0000316709",
+            "Name": "SCHWAB CHARLES CORP",
+            "Ticker": "SCHW"
+        },
+        {
+            "CIK": "0001373835",
+            "Name": "Spectra Energy Corp.",
+            "Ticker": "SE"
+        },
+        {
+            "CIK": "0001012100",
+            "Name": "SEALED AIR CORP/DE",
+            "Ticker": "SEE"
+        },
+        {
+            "CIK": "0000089800",
+            "Name": "SHERWIN WILLIAMS CO",
+            "Ticker": "SHW"
+        },
+        {
+            "CIK": "0000090185",
+            "Name": "SIGMA ALDRICH CORP",
+            "Ticker": "SIAL"
+        },
+        {
+            "CIK": "0000091419",
+            "Name": "SMUCKER J M CO",
+            "Ticker": "SJM"
+        },
+        {
+            "CIK": "0000087347",
+            "Name": "SCHLUMBERGER LTD /NV/",
+            "Ticker": "SLB"
+        },
+        {
+            "CIK": "0001032033",
+            "Name": "SLM CORP",
+            "Ticker": "SLM"
+        },
+        {
+            "CIK": "0000091440",
+            "Name": "SNAP-ON Inc",
+            "Ticker": "SNA"
+        },
+        {
+            "CIK": "0001000180",
+            "Name": "SANDISK CORP",
+            "Ticker": "SNDK"
+        },
+        {
+            "CIK": "0001430602",
+            "Name": "Scripps Networks Interactive, Inc.",
+            "Ticker": "SNI"
+        },
+        {
+            "CIK": "0000092122",
+            "Name": "SOUTHERN CO",
+            "Ticker": "SO"
+        },
+        {
+            "CIK": "0001063761",
+            "Name": "SIMON PROPERTY GROUP INC /DE/",
+            "Ticker": "SPG"
+        },
+        {
+            "CIK": "0000791519",
+            "Name": "STAPLES INC",
+            "Ticker": "SPLS"
+        },
+        {
+            "CIK": "0000861878",
+            "Name": "STERICYCLE INC",
+            "Ticker": "SRCL"
+        },
+        {
+            "CIK": "0001032208",
+            "Name": "SEMPRA ENERGY",
+            "Ticker": "SRE"
+        },
+        {
+            "CIK": "0000750556",
+            "Name": "SUNTRUST BANKS INC",
+            "Ticker": "STI"
+        },
+        {
+            "CIK": "0000203077",
+            "Name": "ST JUDE MEDICAL INC",
+            "Ticker": "STJ"
+        },
+        {
+            "CIK": "0000093751",
+            "Name": "STATE STREET CORP",
+            "Ticker": "STT"
+        },
+        {
+            "CIK": "0001137789",
+            "Name": "Seagate Technology plc",
+            "Ticker": "STX"
+        },
+        {
+            "CIK": "0000016918",
+            "Name": "CONSTELLATION BRANDS, INC.",
+            "Ticker": "STZ"
+        },
+        {
+            "CIK": "0000093556",
+            "Name": "STANLEY BLACK & DECKER, INC.",
+            "Ticker": "SWK"
+        },
+        {
+            "CIK": "0000007332",
+            "Name": "SOUTHWESTERN ENERGY CO",
+            "Ticker": "SWN"
+        },
+        {
+            "CIK": "0000086144",
+            "Name": "SAFEWAY INC",
+            "Ticker": "SWY"
+        },
+        {
+            "CIK": "0000310764",
+            "Name": "STRYKER CORP",
+            "Ticker": "SYK"
+        },
+        {
+            "CIK": "0000849399",
+            "Name": "SYMANTEC CORP",
+            "Ticker": "SYMC"
+        },
+        {
+            "CIK": "0000096021",
+            "Name": "SYSCO CORP",
+            "Ticker": "SYY"
+        },
+        {
+            "CIK": "0000732717",
+            "Name": "AT&T INC.",
+            "Ticker": "T"
+        },
+        {
+            "CIK": "0000024545",
+            "Name": "MOLSON COORS BREWING CO",
+            "Ticker": "TAP"
+        },
+        {
+            "CIK": "0000816761",
+            "Name": "TERADATA CORP /DE/",
+            "Ticker": "TDC"
+        },
+        {
+            "CIK": "0000350563",
+            "Name": "TECO ENERGY INC",
+            "Ticker": "TE"
+        },
+        {
+            "CIK": "0000916863",
+            "Name": "INTEGRYS ENERGY GROUP, INC.",
+            "Ticker": "TEG"
+        },
+        {
+            "CIK": "0001385157",
+            "Name": "TE Connectivity Ltd.",
+            "Ticker": "TEL"
+        },
+        {
+            "CIK": "0000097210",
+            "Name": "TERADYNE, INC",
+            "Ticker": "TER"
+        },
+        {
+            "CIK": "0000027419",
+            "Name": "TARGET CORP",
+            "Ticker": "TGT"
+        },
+        {
+            "CIK": "0000070318",
+            "Name": "TENET HEALTHCARE CORP",
+            "Ticker": "THC"
+        },
+        {
+            "CIK": "0000098246",
+            "Name": "TIFFANY & CO",
+            "Ticker": "TIF"
+        },
+        {
+            "CIK": "0000109198",
+            "Name": "TJX COMPANIES INC /DE/",
+            "Ticker": "TJX"
+        },
+        {
+            "CIK": "0000320335",
+            "Name": "TORCHMARK CORP",
+            "Ticker": "TMK"
+        },
+        {
+            "CIK": "0000097745",
+            "Name": "THERMO FISHER SCIENTIFIC INC.",
+            "Ticker": "TMO"
+        },
+        {
+            "CIK": "0001526520",
+            "Name": "TripAdvisor, Inc.",
+            "Ticker": "TRIP"
+        },
+        {
+            "CIK": "0001113169",
+            "Name": "PRICE T ROWE GROUP INC",
+            "Ticker": "TROW"
+        },
+        {
+            "CIK": "0000086312",
+            "Name": "TRAVELERS COMPANIES, INC.",
+            "Ticker": "TRV"
+        },
+        {
+            "CIK": "0000100493",
+            "Name": "TYSON FOODS INC",
+            "Ticker": "TSN"
+        },
+        {
+            "CIK": "0000050104",
+            "Name": "TESORO CORP /NEW/",
+            "Ticker": "TSO"
+        },
+        {
+            "CIK": "0000721683",
+            "Name": "TOTAL SYSTEM SERVICES INC",
+            "Ticker": "TSS"
+        },
+        {
+            "CIK": "0001377013",
+            "Name": "TIME WARNER CABLE INC.",
+            "Ticker": "TWC"
+        },
+        {
+            "CIK": "0001105705",
+            "Name": "TIME WARNER INC.",
+            "Ticker": "TWX"
+        },
+        {
+            "CIK": "0000097476",
+            "Name": "TEXAS INSTRUMENTS INC",
+            "Ticker": "TXN"
+        },
+        {
+            "CIK": "0000217346",
+            "Name": "TEXTRON INC",
+            "Ticker": "TXT"
+        },
+        {
+            "CIK": "0000833444",
+            "Name": "TYCO INTERNATIONAL LTD",
+            "Ticker": "TYC"
+        },
+        {
+            "CIK": "0000731766",
+            "Name": "UNITEDHEALTH GROUP INC",
+            "Ticker": "UNH"
+        },
+        {
+            "CIK": "0000005513",
+            "Name": "Unum Group",
+            "Ticker": "UNM"
+        },
+        {
+            "CIK": "0000100885",
+            "Name": "UNION PACIFIC CORP",
+            "Ticker": "UNP"
+        },
+        {
+            "CIK": "0001090727",
+            "Name": "UNITED PARCEL SERVICE INC",
+            "Ticker": "UPS"
+        },
+        {
+            "CIK": "0000912615",
+            "Name": "URBAN OUTFITTERS INC",
+            "Ticker": "URBN"
+        },
+        {
+            "CIK": "0000036104",
+            "Name": "US BANCORP \\\\DE\\\\",
+            "Ticker": "USB"
+        },
+        {
+            "CIK": "0000101829",
+            "Name": "UNITED TECHNOLOGIES CORP /DE/",
+            "Ticker": "UTX"
+        },
+        {
+            "CIK": "0001403161",
+            "Name": "VISA INC.",
+            "Ticker": "V"
+        },
+        {
+            "CIK": "0000203527",
+            "Name": "VARIAN MEDICAL SYSTEMS INC",
+            "Ticker": "VAR"
+        },
+        {
+            "CIK": "0000103379",
+            "Name": "V F CORP",
+            "Ticker": "VFC"
+        },
+        {
+            "CIK": "0001339947",
+            "Name": "Viacom Inc.",
+            "Ticker": "VIAB"
+        },
+        {
+            "CIK": "0001035002",
+            "Name": "VALERO ENERGY CORP/TX",
+            "Ticker": "VLO"
+        },
+        {
+            "CIK": "0001396009",
+            "Name": "Vulcan Materials CO",
+            "Ticker": "VMC"
+        },
+        {
+            "CIK": "0000899689",
+            "Name": "VORNADO REALTY TRUST",
+            "Ticker": "VNO"
+        },
+        {
+            "CIK": "0001014473",
+            "Name": "VERISIGN INC/CA",
+            "Ticker": "VRSN"
+        },
+        {
+            "CIK": "0000740260",
+            "Name": "VENTAS INC",
+            "Ticker": "VTR"
+        },
+        {
+            "CIK": "0000732712",
+            "Name": "VERIZON COMMUNICATIONS INC",
+            "Ticker": "VZ"
+        },
+        {
+            "CIK": "0000104207",
+            "Name": "WALGREEN CO",
+            "Ticker": "WAG"
+        },
+        {
+            "CIK": "0001000697",
+            "Name": "WATERS CORP /DE/",
+            "Ticker": "WAT"
+        },
+        {
+            "CIK": "0000106040",
+            "Name": "WESTERN DIGITAL CORP",
+            "Ticker": "WDC"
+        },
+        {
+            "CIK": "0000783325",
+            "Name": "WISCONSIN ENERGY CORP",
+            "Ticker": "WEC"
+        },
+        {
+            "CIK": "0000072971",
+            "Name": "WELLS FARGO & COMPANY/MN",
+            "Ticker": "WFC"
+        },
+        {
+            "CIK": "0000865436",
+            "Name": "WHOLE FOODS MARKET INC",
+            "Ticker": "WFM"
+        },
+        {
+            "CIK": "0000106640",
+            "Name": "WHIRLPOOL CORP /DE/",
+            "Ticker": "WHR"
+        },
+        {
+            "CIK": "0001282266",
+            "Name": "WINDSTREAM HOLDINGS, INC.",
+            "Ticker": "WIN"
+        },
+        {
+            "CIK": "0001156039",
+            "Name": "WELLPOINT, INC",
+            "Ticker": "WLP"
+        },
+        {
+            "CIK": "0000823768",
+            "Name": "WASTE MANAGEMENT INC",
+            "Ticker": "WM"
+        },
+        {
+            "CIK": "0000107263",
+            "Name": "WILLIAMS COMPANIES INC",
+            "Ticker": "WMB"
+        },
+        {
+            "CIK": "0000104169",
+            "Name": "WAL MART STORES INC",
+            "Ticker": "WMT"
+        },
+        {
+            "CIK": "0001518832",
+            "Name": "WPX ENERGY, INC.",
+            "Ticker": "WPX"
+        },
+        {
+            "CIK": "0001365135",
+            "Name": "Western Union CO",
+            "Ticker": "WU"
+        },
+        {
+            "CIK": "0000106535",
+            "Name": "WEYERHAEUSER CO",
+            "Ticker": "WY"
+        },
+        {
+            "CIK": "0001361658",
+            "Name": "WYNDHAM WORLDWIDE CORP",
+            "Ticker": "WYN"
+        },
+        {
+            "CIK": "0001174922",
+            "Name": "WYNN RESORTS LTD",
+            "Ticker": "WYNN"
+        },
+        {
+            "CIK": "0001163302",
+            "Name": "UNITED STATES STEEL CORP",
+            "Ticker": "X"
+        },
+        {
+            "CIK": "0000072903",
+            "Name": "XCEL ENERGY INC",
+            "Ticker": "XEL"
+        },
+        {
+            "CIK": "0000875159",
+            "Name": "XL GROUP PLC",
+            "Ticker": "XL"
+        },
+        {
+            "CIK": "0000743988",
+            "Name": "XILINX INC",
+            "Ticker": "XLNX"
+        },
+        {
+            "CIK": "0000034088",
+            "Name": "EXXON MOBIL CORP",
+            "Ticker": "XOM"
+        },
+        {
+            "CIK": "0000818479",
+            "Name": "DENTSPLY INTERNATIONAL INC /DE/",
+            "Ticker": "XRAY"
+        },
+        {
+            "CIK": "0000108772",
+            "Name": "XEROX CORP",
+            "Ticker": "XRX"
+        },
+        {
+            "CIK": "0001524472",
+            "Name": "Xylem Inc.",
+            "Ticker": "XYL"
+        },
+        {
+            "CIK": "0001011006",
+            "Name": "YAHOO INC",
+            "Ticker": "YHOO"
+        },
+        {
+            "CIK": "0001041061",
+            "Name": "YUM BRANDS INC",
+            "Ticker": "YUM"
+        },
+        {
+            "CIK": "0000109380",
+            "Name": "ZIONS BANCORPORATION /UT/",
+            "Ticker": "ZION"
+        },
+        {
+            "CIK": "0001136869",
+            "Name": "ZIMMER HOLDINGS INC",
+            "Ticker": "ZMH"
+        }
+    ]
+}
